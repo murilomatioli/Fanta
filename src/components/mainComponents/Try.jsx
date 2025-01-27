@@ -1,6 +1,9 @@
 import React from "react";
+import fantas from "../../data/data";
 
 const Try = () => {
+
+
     return (
         <>
             <div className="flex relative items-center w-fit md:w-96 my-8 mx-auto">

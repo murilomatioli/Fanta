@@ -15,7 +15,7 @@ const fantas = [
         nome: "Fanta Uva",
         desc: "Com o sabor doce e intenso da uva, Fanta Uva é uma escolha irresistível para quem gosta de sabores frutados.",
         img: uva,
-        color: "#852af5"
+        color: "#621aba"
     },
     {
         id: 3,
