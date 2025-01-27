@@ -5,12 +5,12 @@ export default {
     extend: {
       keyframes: {
         slideLeft: {
-          "0%": {transform: "translateX(10px)", opacity: "0"},
+          "0%": {transform: "translateX(50px)", opacity: "0"},
           "100%": {transform: "translateX(0px)", opacity: "1"}
         },
       },
       animation: {
-        "slide-left": "slideLeft 0.5s linear",
+        "slide-left": "slideLeft 0.2s linear",
       }
     },
   },
